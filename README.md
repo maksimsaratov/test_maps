@@ -1,5 +1,8 @@
 # test_maps
-test repository for maps
+Draw Hause on the Map
+
+## Dev Requirements
+* npm
 
 ## Installation
 
@@ -12,4 +15,5 @@ gulp
 
 ## Usage
 
-localhost:8010 - in your browser
+* localhost:8010 - in your browser
+* ./dist/ - folder with production
